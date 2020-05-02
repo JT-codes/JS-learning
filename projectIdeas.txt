@@ -1,0 +1,15 @@
+-----------------------------PROJECT IDEAS for JavaScript--------------------------------------
+
+1. To-do list
+2. color swap (change background color based on selected value)
+3. counter 
+4. countdown for days and time
+5. tip calculator
+6. form validator
+7. Random quote generator
+8. JavaScript Quiz
+9. Stopwatch
+10. Image slider
+11. Digital clock
+12. Word counter
+13. Weather forecaster
